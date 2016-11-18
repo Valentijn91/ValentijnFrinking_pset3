@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Watchlist</string>
+    <string name="search_others">Search movies...</string>
+    <string name="search">Search</string>
+</resources>

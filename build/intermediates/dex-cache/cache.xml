@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_e06674487811709c1503d657ee6ba6fa80574d71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-21.0.3_77c4572cf42c788ff9213f4d1118c58506dfe41b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ad6a57896a3e2979373892df5546df45c14264e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_661b19b54b53484ec875b479fd30de6ad62d1707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_adfd18ad070cc244df79d7f1e96363c42522eac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_51f608579d643718cbfb455c261082f7430aaff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_003c96f05cefdd204548e5a9c667bddff2273180\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_53e27b7f3ecd9ae2378cab71b788d0598e81b81c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_bfb7f4063b4576a4f11611a265899aaebf6fa594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_728d79dbcd8c58670048c89d9a9dd85a33d17cca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_5aff38be2a83f2ad959ca84d6d25921be59f0e26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_50fbe16f795560b6cf0f23ed030b585af00ce56a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b394adc9c24f465f94a0ddda41218154b2eaf656">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c435d515e49995ece7d77b1333c85aba4ffb96aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f56e37bd2bafdc3e33f30490ae2b3778c5465e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ff1f40d92132a9974139f65e3ead75cb5f6bd413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_a8c17e29f7eb3f452961615a06919fcf5a00740d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5954ea71043809228325d76ee7b83dd8608d2c">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1168837839ab9774f585bfe36c6a1303884c6a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_15cc6ba3a8f80740dd9e078f47ba6a3ff4c6b56d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\vfrin\Desktop\ValentijnFrinking_pset3-master\ValentijnFrinking_pset3-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_8998b4129aba748958b1830c20715a8946e97e03\classes.dex" />
+    </item>
+
+</items>
